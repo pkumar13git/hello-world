@@ -1,2 +1,4 @@
 # hello-world
-To learn about github
+To learn not about github
+
+This is a big test of what i can do.
