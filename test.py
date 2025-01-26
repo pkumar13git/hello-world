@@ -4,6 +4,8 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi there duffer, {name}')  # Press ⌘F8 to toggle the breakpoint.
     print('badtameez')
+    print('Tamatar')
+    print('Gabbar')
 
 
 # Press the green button in the gutter to run the script.
