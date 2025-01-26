@@ -3,7 +3,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'Hi there duffer, {name}')  # Press ⌘F8 to toggle the breakpoint.
-    print('badtameez')
+    print('badtameezian')
     print('Tamatars')
     print('Gabbar')
     print('Juicy')
